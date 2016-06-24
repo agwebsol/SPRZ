@@ -1,0 +1,36 @@
+body{
+    
+}
+a:link {
+    text-decoration: none;
+}
+header{
+    
+}
+#side_navbar{
+    width:200px;
+    height: 100%;
+    background-color:BLUE;
+    float:left;
+    margin-top: 40px;
+    color: WHITE;
+}
+#mid_content{
+    padding-top:2px;
+    float:left;
+    width:900px;
+    height: 100%;
+    background-color: WHITE;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+input.wrong {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(255, 183, 183);
+}
+
+input.correct {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(220, 251, 164);
+}

@@ -1,0 +1,33 @@
+body{
+    
+}
+a:link {
+    text-decoration: none;
+}
+header{
+  background-color:white;  
+}
+#side_navbar{
+    width:250px;
+    height: 550px;
+    background-color:WHITE;
+    float:left;
+    margin-top: 50px;
+}
+#mid_content{
+    float:left;
+    width:660px;
+    height: 800px;
+    background-color:WHITE;
+    margin-top: 50px;
+}
+
+input.wrong {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(255, 183, 183);
+}
+
+input.correct {
+    border-color: rgb(180, 207, 94);
+    background-color: rgb(220, 251, 164);
+}
