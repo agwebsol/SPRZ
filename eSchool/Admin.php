@@ -97,7 +97,7 @@ $tmpl = new Admin_control();
                     <?php $tmpl->Admin_method(); ?>
                 </div>
                 <div id="footer_bar">
-                    
+                    The 
                 </div>
                 
             </div>
